@@ -1,6 +1,7 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1170/1*OCVNtsDskViRoyQtogH4Pg.jpeg)
 <h1 align="center">Hi There 👋, I'm Namik Ahmedov</h1>
 <h3 align="center">A Flutter Developer and Ethical Hacker from Azerbaijan</h3>
-
+  
 Usage:
 ```shell
 $ apt update && apt upgrade

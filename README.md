@@ -1,16 +1,25 @@
+  # IP SCANNER
+  ### __This IP Scanner tool is designed to scan one or more IP addresses to identify open network ports and provide information about them.__
+  ---
+  ## Features
+  * Single and multiple IP addresses: ability to scan one or more IP addresses
+  * Find open ports: Automatically detect and display port information
+  * Flexible data output: scan results are output in a convenient format that displays only open ports
 
-  - Coded by Namik Ahmedov
-  - https://www.linkedin.com/in/namik-ahmedov-0ab564288
-  - https://github.com/robostudio01
+## Installation
+```shell
+$ apt update && apt upgrade 
+ 
+$ apt install git 
 
-Usage:
-python3 scanner.py
+$ apt install python3 
 
-Requirements:
-Internet, python3
+$ git clone https://github.com/robostudio01/ip-scanner 
 
-Installing python3:
-sudo apt install python3
+$ cd ip-scanner 
+ 
+```
 
-Write me if u have any questions.
-My Telegram: @rb_studio_official
+>  - Coded by Namik Ahmedov
+>  - https://www.linkedin.com/in/namik-ahmedov-0ab564288
+>  - https://github.com/robostudio01

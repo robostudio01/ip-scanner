@@ -1,6 +1,21 @@
 <h1 align="center">Hi There 👋, I'm Namik Ahmedov</h1>
 <h3 align="center">A Flutter Developer and Ethical Hacker from Azerbaijan</h3>
 
+Usage:
+```shell
+$ apt update && apt upgrade
+
+$ apt install git
+
+$ apt install python3
+
+$ git clone https://github.com/robostudio01/ip-scanner
+
+$ cd ip-scanner
+
+$ python3 scanner.py
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robostudio01&label=Profile%20views&color=0e75b6&style=flat" alt="robostudio01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robostudio01" alt="robostudio01" /></a> </p>

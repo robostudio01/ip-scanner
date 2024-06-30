@@ -1,6 +1,3 @@
-  ╦╔═╗  ╔═╗╔═╗╔═╗╔╗╔╔╗╔╔═╗╦═╗
-  ║╠═╝  ╚═╗║  ╠═╣║║║║║║║╣ ╠╦╝
-  ╩╩    ╚═╝╚═╝╩ ╩╝╚╝╝╚╝╚═╝╩╚═
 
   - Coded by Namik Ahmedov
   - https://www.linkedin.com/in/namik-ahmedov-0ab564288

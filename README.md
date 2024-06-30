@@ -16,8 +16,10 @@ $ apt install python3
 
 $ git clone https://github.com/robostudio01/ip-scanner 
 
-$ cd ip-scanner 
- 
+$ cd ip-scanner
+
+$ python3 scanner.py
+
 ```
 
 >  - Coded by Namik Ahmedov

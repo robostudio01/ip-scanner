@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1170/1*OCVNtsDskViRoyQtogH4Pg.jpeg)
-<h1 align="center">Hi There 👋, I'm Namik Ahmedov</h1>
-<h3 align="center">A Flutter Developer and Ethical Hacker from Azerbaijan</h3>
+<h1 align="center">Hi There 👋, I'm n356dv</h1>
+<h3 align="center">A Flutter Developer and Ethical Hacker from Earth</h3>
 
 * This IP Scanner tool is designed to connect one or more IP addresses with protection from detecting open network ports
 

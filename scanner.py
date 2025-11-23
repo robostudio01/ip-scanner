@@ -26,8 +26,7 @@ ascii_banner = """
   ║╠═╝  ╚═╗║  ╠═╣║║║║║║║╣ ╠╦╝
   ╩╩    ╚═╝╚═╝╩ ╩╝╚╝╝╚╝╚═╝╩╚═
 
-  - Coded by Namik Ahmedov   
-  - https://www.linkedin.com/in/namik-ahmedov-0ab564288
+  - Coded by n356d
   - https://github.com/robostudio01
 """
 
